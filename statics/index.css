@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+
+}
+body{
+    background-color: antiquewhite;
+}
+.container{
+background-color: aliceblue;
+margin:150px auto;
+width:700px;
+padding: 20px 0;
+text-align: center;
+}
+#progpic{
+    
+    height: 170px;
+    width: 170px;
+border-radius: 50%;
+display: inline-block;
+margin: 3px auto;
+border: 1px dashed black;
+
+}
+h6{
+    margin: 20px 280px;
+    font-size:x-large;
+    border-bottom: 5px solid antiquewhite;
+    
+   
+}
+p{
+    margin: 20px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.icon{
+    background-color: antiquewhite;
+padding: 10px 5px;
+justify-items: center;
+display: block;
+font-size: xx-large;
+width: 100%;
+margin-bottom: 20px;
+}
+i{
+    padding: 10px;
+margin: 0 20px;
+font-weight: bolder;
+cursor: pointer;
+background-color: rgb(15, 15, 15);
+color: aliceblue;
+border-radius: 50%;
+}
